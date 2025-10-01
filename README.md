@@ -1,5 +1,5 @@
 # Computer-Science-course
-我的照片(https://github.com/bojyun0832/Computer-Science-course/blob/0fdb239c34f5b0a2369809daa3fb2d2a4ab18053/IMG_3332.heic)
+我的照片([https://github.com/bojyun0832/Computer-Science-course/blob/0fdb239c34f5b0a2369809daa3fb2d2a4ab18053/IMG_3332.heic](https://github.com/bojyun0832/Computer-Science-course/blob/831ac722000b6b4956bad9efd91b5be36b548c3d/S__5169173.jpg))
 大家好，我是中原大學電機資訊學院智慧運算與大數據學士班一甲
 我是來自南部偏鄉嘉義市高中都是壘球社從小就喜歡打棒球
 喜歡看中華職棒資深九年猿迷，所以才來桃園念書因為看球方便比，最討厭象迷看一個揍一個
